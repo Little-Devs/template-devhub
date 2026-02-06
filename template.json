@@ -5,6 +5,9 @@
   "description": "GitHub-inspired developer platform template with dark theme, animated hero, feature tabs, and modern UI components",
   "category": "landing-page",
   "subcategory": "developer-tools",
+  "repository": "https://github.com/Little-Devs/template-devhub",
+  "demoUrl": "devhub.jibbr.dev",
+  "previewImage": "",
   "techStack": {
     "framework": "Astro",
     "version": "5.1.0",
